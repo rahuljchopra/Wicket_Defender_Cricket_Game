@@ -2,6 +2,8 @@
 
 A Game inspired by the miniclip game , Hit the Wicket.The user controls the batsman's movement on the screen and needs to defend the wicket from the ball that comes at different trajectories. The game ends when the user misses the ball and it hits the wickets thrice.
 
+![This is the starting game banner](Pictures/Game_Banner.png)
+
 ## Description of How the Game Works:
 
 - After the code is running, the start page of the game is displayed. To start playing the game, the spacebar on the keyboard needs to be pressed and this is indicated on the start page as well. After the spacebar on the keyboard is pressed the game will start.
